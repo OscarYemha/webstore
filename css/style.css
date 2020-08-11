@@ -1,0 +1,218 @@
+.btn-outline-success {
+
+ border: solid 1px lightgrey;
+ color: black;   
+
+}
+
+.btn-outline-success:hover {
+    background-color: transparent;
+    color: black;
+    border: solid 1px lightgray;
+}
+
+.btn-outline-success:not(:disabled):not(.disabled):active, .btn-outline-success:not(:disabled):not(.disabled).active,
+.show > .btn-outline-success.dropdown-toggle {
+  color: #fff;
+  background-color: white;
+  border-color: lightgray;
+
+}
+
+  .btn-outline-success:focus, .btn-outline-success.focus {
+    box-shadow: none;
+  }
+
+  .btn-outline-success:not(:disabled):not(.disabled):active:focus, .btn-outline-success:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-success.dropdown-toggle:focus {
+  box-shadow: none
+}
+
+#filaDerecha {
+
+color: black;
+
+}
+
+#letraFormulario {
+
+  font-size: 13.5px;
+}
+
+#footer {
+
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  font-size: 11px;
+  padding: 7px;
+
+}
+
+.imagenTuareg {
+
+  width: 50%;
+  margin: auto;
+  margin-top: 5%;
+
+}
+
+.imagenBorges {
+
+  width: 53.5%;
+  margin: auto;
+  margin-top: 5%;
+
+}
+
+.imagenMilNoches {
+
+  width: 50%;
+  margin: auto;
+  margin-top: 5%;
+
+}
+
+#imagenRedondos {
+
+  width: 76.5%;
+  height: 43%;
+  margin: auto;
+  margin-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+
+}
+
+.laMoscaYLaSopa {
+
+  background-color: black;
+
+}
+
+.imagenDiscos {
+
+  width: 90%;
+  margin: auto;
+  margin-top: 5%;
+  
+
+}
+
+.abajo {
+
+  display: hidden;
+
+}
+
+#navbarDropdown {
+
+  color: black;
+
+}
+
+#navbarDropdown:hover {
+
+color:black
+
+}
+
+.table-active {
+
+  background-color: rgb(185, 185, 185);
+
+}
+
+#hackaton {
+
+  font-size: 120%;
+  margin: 0 auto;
+  padding-right: 2%;
+
+}
+
+.dropdown-toggle:hover {
+
+  background-color: rgb(185, 185, 185);
+
+}
+
+.dropdown-toggle:focus {
+
+  background-color: rgb(185, 185, 185);
+
+}
+
+.fondo {
+
+  background-image: url(https://images4.alphacoders.com/810/810873.jpg);
+  background-size: cover;
+  height: auto;
+
+}
+
+.footerArriba {
+
+ background-color: lightgoldenrodyellow;
+ padding: 1%; 
+
+}
+
+.icono {
+
+  width: 35%;
+  padding: 3%;
+  margin-top: 10%;
+  
+}
+
+.columna {
+
+  text-align: center;
+  color: black;
+  margin-top: ;
+  margin-left: ;
+  
+
+}
+
+.parrafo {
+
+  font-size: 35px;
+  font-weight: bold;
+  
+
+}
+
+.h1 {
+
+  font-size: 55px;
+  
+}
+
+.parrafoDos {
+
+  font-weight: bold;
+  font-size: 20px;
+
+}
+
+.boton {
+
+  border: none;
+  border-radius: 2px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-family: cursive;
+  padding: 0.5%;
+  margin-left: 0.5%;
+
+}
+
+.botonIngresar {
+
+  text-align: center;
+  margin-top: 5%;
+
+}
